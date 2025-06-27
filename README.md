@@ -1,5 +1,8 @@
 <!-- Banner-style heading -->
-<h1 align="center">hey, i'm Alfred! 👋</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devinbook/devinbook/main/Header.JPG" alt="Header banner" />
+</p>
+
 
 <p align="center">
 I like experimenting with new technologies, building cool data projects, and learning about data engineering. ✨
