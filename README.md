@@ -1,6 +1,5 @@
-<!-- Banner-style heading -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devinbook/devinbook/main/Header.JPG" alt="Header banner" />
+  <img src="https://raw.githubusercontent.com/devinbook/devinbook/main/githubHeader.png" alt="GitHub Header" />
 </p>
 
 
