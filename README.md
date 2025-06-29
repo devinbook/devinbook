@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Alfred**!
 
 
-<p align="center">
+<p>
 I like experimenting with new technologies, building cool data projects, and learning about data engineering. ✨
 </p>
 
