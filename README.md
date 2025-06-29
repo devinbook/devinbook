@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devinbook/devinbook/main/githubHeader.png" alt="GitHub Header" />
+  <img src="https://raw.githubusercontent.com/devinbook/devinbook/refs/heads/main/Player%20One.png" alt="GitHub Header" />
 </p>
 
 
