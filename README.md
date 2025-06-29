@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devinbook/devinbook/refs/heads/main/Player%20One.png" alt="GitHub Header" />
-</p>
+# 👋 Hi, I'm **Alfred**!
 
 
 <p align="center">
@@ -9,9 +7,10 @@ I like experimenting with new technologies, building cool data projects, and lea
 
 ---
 
-🎓 A fresh graduate with a **Bachelor of Science in Computer Science** from **New Era University**  
-💡 Currently learning Data Engineering and Data Analytics!  
-📊 Data Enthusiast | 🐍 Python Developer | 🌐 Web Developer
+- 🎓 A fresh graduate with a **Bachelor of Science in Computer Science** from **New Era University**
+- 💡 I'm currently learning **Data Engineering** and **Data Analytics**
+- 📊 Data Enthusiast | 🐍 Python Developer | 🌐 Web Developer
+
 
 ---
 
@@ -26,13 +25,12 @@ I like experimenting with new technologies, building cool data projects, and lea
 
 ### 📫 Let's connect and chat!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red"></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
-</p>
+<a href="https://www.linkedin.com/in/wendell-alfred-feria-574977230/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:wayferia07@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alfredferia&style=flat-square&color=blue" alt="GitHub profile views" />
-</p>
+
  
